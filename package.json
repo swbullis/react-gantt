@@ -1,9 +1,9 @@
 {
   "name": "react-gantt",
-  "version": "1.1.2",
+  "version": "1.1.21",
   "description": "ReactGantt",
   "main": "lib/ReactGantt.js",
-  "author": "Jam Risser",
+  "author": ["Jam Risser", "Steve Bullis"],
   "homepage": "https://github.com/jamrizzi/react-gantt",
   "repository": {
     "type": "git",
